@@ -1,3 +1,21 @@
+This is an experimental project for following content:
+
+1) React App
+
+​    Using create-react-app to build a SPA and reach hook has been used.
+
+2) Tauri
+
+   Using Tauri to build cross platform application package.
+
+
+
+Outcome Example:
+
+![image-20200717181020518](docs/_image/image-20200717181020518.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

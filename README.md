@@ -10,6 +10,10 @@ This is an experimental project for following content:
 
 
 
+Windows Example:
+
+<video src="docs/_image/7-17-2020 9-43-32 PM.mp4"></video>
+
 Outcome Example:
 
 ![image-20200717181020518](docs/_image/image-20200717181020518.png)

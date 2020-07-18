@@ -16,7 +16,8 @@ Mac Example:
 
 Windows Example:
 
-<video src="docs/_image/7-17-2020 9-43-32 PM.mp4"></video>
+![7-17-2020 9-43-32 PM](docs/_image/7-17-2020%209-43-32%20PM.gif)
+
 
 Outcome Example:
 

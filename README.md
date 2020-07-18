@@ -10,6 +10,10 @@ This is an experimental project for following content:
 
 
 
+Mac Example:
+
+![2020-07-17_21-52-02](docs/_image/2020-07-17_21-52-02.gif)
+
 Windows Example:
 
 <video src="docs/_image/7-17-2020 9-43-32 PM.mp4"></video>
